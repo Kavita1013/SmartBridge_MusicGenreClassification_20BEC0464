@@ -17,8 +17,8 @@ A machine learning-based system for music genre classification using Spotify dat
 
 #### LINKS
 
-[DRIVE LINK with assignments]: (https://drive.google.com/drive/folders/1p5OJFWj7nsG5NyLFRJLEZwmDp7kFuThV?usp=sharing)
+[DRIVE LINK with assignments] (https://drive.google.com/drive/folders/1p5OJFWj7nsG5NyLFRJLEZwmDp7kFuThV?usp=sharing)
 
-[DRIVE LINK with Project Files]: (https://drive.google.com/drive/folders/1He4SLQRNIAmD3VLmuwcjD_nGtQUqXv03?usp=sharing)
+[DRIVE LINK with Project Files](https://drive.google.com/drive/folders/1He4SLQRNIAmD3VLmuwcjD_nGtQUqXv03?usp=sharing)
 
-[DRIVE LINK with Project Report and Demo Video]: (https://drive.google.com/drive/folders/1e8lSM_810nIWwEx-BfU_3mtsBiiySxUm?usp=sharing)
+[DRIVE LINK with Project Report and Demo Video](https://drive.google.com/drive/folders/1e8lSM_810nIWwEx-BfU_3mtsBiiySxUm?usp=sharing)
