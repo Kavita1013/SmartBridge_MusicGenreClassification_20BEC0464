@@ -23,6 +23,8 @@ A machine learning-based system for music genre classification using Spotify dat
 
 [DRIVE LINK with Project Report and Demo Video](https://drive.google.com/drive/folders/1e8lSM_810nIWwEx-BfU_3mtsBiiySxUm?usp=sharing)
 
+[Demo Video Link](https://drive.google.com/file/d/1AF7kuRlQyZV6JI0R8EhISZpksVWV2kWo/view?usp=sharing)
+
 #### Contact Info :
 Incase of any queries regarding the project, please contact the following:<br>
 NAME : KAVITA NAMPOOTHIRI<br>
